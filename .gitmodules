@@ -1,0 +1,6 @@
+[submodule "Arduino"]
+	path = Arduino
+	url = git@github.com:Sydpy/ArduinoGasMonitoring.git
+[submodule "KiCad"]
+	path = KiCad
+	url = git@github.com:Nieflav/kicad_project.git
