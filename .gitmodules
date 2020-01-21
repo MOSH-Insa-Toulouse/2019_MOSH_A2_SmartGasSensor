@@ -1,6 +1,8 @@
 [submodule "Arduino"]
 	path = Arduino
 	url = git@github.com:Sydpy/ArduinoGasMonitoring.git
+	branch = master
 [submodule "KiCad"]
 	path = KiCad
 	url = git@github.com:Nieflav/kicad_project.git
+	branch = master
