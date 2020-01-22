@@ -1,5 +1,6 @@
 # Smart Gas Sensor
 
+![PCB](https://github.com/Nieflav/kicad_project/blob/master/pictures/3D.PNG "PCB")
 
 ## Authors
 
